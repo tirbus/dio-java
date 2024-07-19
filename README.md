@@ -1,4 +1,5 @@
 # dio-java
-curso de java Dio
-testando commit
-mais uma vez após o erro de origin
+curso de java Dio, 
+testando commit, 
+mais uma vez após o erro de origin, 
+pparece que funcionou!
